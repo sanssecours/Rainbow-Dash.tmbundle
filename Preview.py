@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-class ColorfulShowCase:
+class ColorfulShowCase(object):
 
     """
     Just some useless code to showcase the style of
