@@ -3,7 +3,7 @@
 This repository contains a bright and colorful theme for TextMate. It is based
 on “Mac Classic” by Chris Thomas.
 
-![Colorful Theme](Preview.png "Preview image for the Colorful TextMate theme")
+[[Preview.png|alt=Preview image for the Colorful TextMate theme]]
 
 # Installation #
 
