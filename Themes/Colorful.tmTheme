@@ -6,6 +6,8 @@
 	<string>René Schwaiger</string>
 	<key>name</key>
 	<string>Colorful</string>
+	<key>semanticClass</key>
+	<string>theme.light.colorful</string>
 	<key>settings</key>
 	<array>
 		<dict>
