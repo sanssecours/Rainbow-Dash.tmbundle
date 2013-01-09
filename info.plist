@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fnaffrpbhef@s-z.sz</string>
+	<key>contactName</key>
+	<string>René Schwaiger</string>
+	<key>description</key>
+	<string>A bright and colorful syntax highlighting theme for TextMate based on “Mac
+Classic” by Chris Thomas.
+</string>
+	<key>name</key>
+	<string>Colorful</string>
+	<key>uuid</key>
+	<string>4F532542-277A-4104-82D2-F5E1419198FE</string>
+</dict>
+</plist>
