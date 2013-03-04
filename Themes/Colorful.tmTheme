@@ -419,6 +419,8 @@
 			<string>markup.heading</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFFFF</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
@@ -432,6 +434,8 @@
 			<string>markup.quote</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFFFF</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
@@ -447,6 +451,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#5918BB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Code</string>
+			<key>scope</key>
+			<string>markup.raw, meta.block-level.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F0F0F0</string>
 			</dict>
 		</dict>
 	</array>
