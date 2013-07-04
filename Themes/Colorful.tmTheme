@@ -446,7 +446,7 @@
 			<key>name</key>
 			<string>Markup: List</string>
 			<key>scope</key>
-			<string>markup.list</string>
+			<string>punctuation.definition.list.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
