@@ -1,14 +1,23 @@
-# About #
+# Rainbow Dash — TextMate Theme
 
-This repository contains a bright and colorful theme for [TextMate](https://github.com/textmate/textmate). It is based
-on “Mac Classic” by Chris Thomas.
+This repository contains a bright and colorful theme for [TextMate](https://github.com/textmate/textmate). It is based on “Mac Classic” by Chris Thomas.
 
-![Preview image for the Colorful TextMate theme](https://raw.github.com/sanssecours/Colorful.tmbundle/documentation/Preview.png)
+![Preview image for the Rainbow Dash TextMate theme](Documentation/Preview.png)
 
-# Installation #
+# Installation
+
+## Manual
+
+1. Download the latest [release][].
+2. Unzip the archive
+3. Double click on “Rainbow Dash.tmbundle”
+
+[release]: http://github.com/sanssecours/Rainbow-Dash.tmbundle/releases
+
+## Terminal
 
 ```shell
-    # TextMate 2
-	cd ~/Library/Application\ Support/Avian/Bundles/
-	git clone https://github.com/sanssecours/Colorful.tmbundle.git
+    mkdir -p "$HOME/Library/Application Support/Avian/Bundles"
+    cd "$HOME/Library/Application Support/Avian/Bundles"
+	git clone https://github.com/sanssecours/Rainbow-Dash.tmbundle
 ```
