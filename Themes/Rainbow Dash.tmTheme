@@ -112,8 +112,6 @@
 			<string>string</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#FFFFFF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
