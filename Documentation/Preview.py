@@ -5,7 +5,7 @@ class ColorfulShowCase(object):
 
     """
     Just some useless code to showcase the style of
-    the Colorful TextMate theme.
+    the Rainbow Dash TextMate theme.
     """
     def __init__(self):
         print("Hello, World")
