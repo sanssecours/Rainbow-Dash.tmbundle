@@ -281,17 +281,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: Operator</string>
-			<key>scope</key>
-			<string>keyword.operator.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#687687</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
 			<string>invalid</string>
