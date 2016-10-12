@@ -17,7 +17,7 @@ This repository contains a bright and colorful theme for [TextMate](https://gith
 ## Terminal
 
 ```shell
-    mkdir -p "$HOME/Library/Application Support/Avian/Bundles"
-    cd "$HOME/Library/Application Support/Avian/Bundles"
-	git clone https://github.com/sanssecours/Rainbow-Dash.tmbundle
+mkdir -p "$HOME/Library/Application Support/TextMate/Bundles"
+cd "$HOME/Library/Application Support/TextMate/Bundles"
+git clone https://github.com/sanssecours/Rainbow-Dash.tmbundle
 ```
