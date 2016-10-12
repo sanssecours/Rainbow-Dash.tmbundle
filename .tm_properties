@@ -1,4 +1,0 @@
-projectDirectory = "$CWD"
-project          = "${projectDirectory/^.*\///}"
-projectIcon      = "🌻"
-windowTitle      = "$project $projectIcon $TM_DISPLAYNAME"
